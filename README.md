@@ -1,10 +1,10 @@
 # Indian-Budget-Analysis-Dashboard
 
-Project Overview
+**Project Overview**
 
 This project analyzes the Indian Union Budget 2025-26 with a focus on major sector allocations, historical expenditure trends, and international comparisons. The dashboard is designed to provide clear insights for policymakers, researchers, and citizens by breaking down expenditures, identifying key focus areas, and highlighting opportunities for growth.
 
- Business Objective
+ **Business Objective**
 
 The purpose of this dashboard is to:
 
@@ -20,13 +20,13 @@ Provide actionable insights for rebalancing priorities, such as judicial reforms
 
 By visualizing complex budget data, the project helps in better decision-making, transparency, and public awareness.
 
- Technical Aspects
+ **Technical Aspects**
 
 Tool Used: Power BI Desktop
 
-Data Sources: Union Budget 2025-26 (Government reports & open data) + Historical data from previous years.
+**Data Sources:** Union Budget 2025-26 (Government reports & open data) + Historical data from previous years.
 
-Key Features:
+**Key Features:**
 
 Interactive dashboards with filters & drill-downs
 
@@ -38,7 +38,7 @@ Global comparisons of Budget, GDP, and Defence spending
 
 Highlighted insights & recommendations for economic rebalancing
 
-📂 Dashboard Highlights
+**📂 Dashboard Highlights**
 
 Total Expenditure: ₹50.65 Trillion (2025-26)
 
@@ -48,7 +48,7 @@ Lowest Allocations: External Affairs, Tourism, Judiciary, Youth & Sports.
 
 Global Comparison: India’s budget stands at ₹5.1T vs USA (₹9.0T) and China (₹8.9T).
 
-Key Insight: India must increase funding in judiciary, sports, R&D, and renewable energy to boost long-term growth.
+**Key Insight: India must increase funding in judiciary, sports, R&D, and renewable energy to boost long-term growth.**
 
  Visuals Included
 
@@ -62,9 +62,7 @@ Cross-Country Budget, GDP, and Defence Comparison
 
 Recommended Policy Priorities
 
- Future Scope
-
-Add real-time API integration for live updates when budgets are announced.
+ **Future Scope**
 
 Include predictive analysis using Python & ML models for forecasting future allocations.
 
